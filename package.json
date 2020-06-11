@@ -1,0 +1,19 @@
+{
+  "name": "week6-day5",
+  "version": "0.0.1",
+  "description": "Salt project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ymirke/Week6-Day5.git"
+  },
+  "author": "TOM - Salt spring 20 Sthlm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ymirke/Week6-Day5/issues"
+  },
+  "homepage": "https://github.com/Ymirke/Week6-Day5#readme"
+}
