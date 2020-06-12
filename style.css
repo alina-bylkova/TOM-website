@@ -1,5 +1,6 @@
 body {
   background-color: #f6f6f6;
+  padding-bottom: 50px;
 }
 
 .jumbotron {
@@ -29,4 +30,27 @@ body {
 
 li {
   margin: 2em 1em;
+}
+
+footer {
+  text-align: center;
+  margin-top: 15px;
+  color: rgb(185, 185, 185);
+  background-color: #04112d;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100vw;
+  opacity: 0.9;
+  padding: 1vh 0;
+  z-index: 2;
+}
+
+footer h6 {
+  font-family: Helvetica, sans-serif;
+  margin: 0;
+}
+
+footer a {
+  margin: 0;
 }
