@@ -18,3 +18,9 @@ body {
   transition-duration: 0.5s;
   transition-timing-function: ease-out;
 }
+
+.manifesto {
+  margin: auto;
+
+  box-sizing: border-box;
+}
