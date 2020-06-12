@@ -1,6 +1,5 @@
 body {
   background-color: #f6f6f6;
-  
 }
 
 .jumbotron {
@@ -8,7 +7,6 @@ body {
   color: #f6f6f6;
   font-weight: bold;
   font-size: 3em;
-  
 }
 
 .card-photo:hover {
@@ -21,6 +19,14 @@ body {
 
 .manifesto {
   margin: auto;
-
+  background-color: #04112d;
   box-sizing: border-box;
+}
+
+.row {
+  justify-content: center;
+}
+
+li {
+  margin: 2em 1em;
 }
